@@ -1,1 +1,1 @@
-Write text or URl and instantly generate QR Code
+Write text or URL and instantly generate a QR Code
