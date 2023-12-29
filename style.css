@@ -83,3 +83,9 @@ body{
         transform: translateX(0);
     }
 }
+.copy-right-sec{
+	padding: 1.8rem;
+    background: #494eea;
+    color: #fff;
+    text-align: center;
+}
